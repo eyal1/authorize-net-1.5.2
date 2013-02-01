@@ -20,7 +20,7 @@ of boiler plate code.
 
 Goto the Authorize.Net SDK download page and download the Ruby gem. Then
 
-  > gem install authorize-net-1.5.1.gem
+  > gem install authorize-net
 
 == Usage
 
